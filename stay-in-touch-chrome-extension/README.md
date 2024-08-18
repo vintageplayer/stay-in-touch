@@ -1,0 +1,1 @@
+Base Chrome Extension Taken from here: https://medium.com/@dr.connor/how-to-build-a-basic-chrome-extension-8e6b054caca6
