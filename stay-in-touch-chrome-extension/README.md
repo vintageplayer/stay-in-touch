@@ -1,1 +1,1 @@
-Base Chrome Extension Taken from here: https://medium.com/@dr.connor/how-to-build-a-basic-chrome-extension-8e6b054caca6
+Basic Chrome Scraping Extension : https://pub.aimind.so/building-a-basic-data-collection-chrome-extension-a2c9075ca876
